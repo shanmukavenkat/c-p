@@ -9,6 +9,7 @@ the machine only knows the binary language only
     0 and 1
 
 the compiler converts the source code to the binary code.
+this is the commit form my mobile that i have did it 
 
 ----------------------------------------------------------------------
 Compiler ==> It is going to check all the lines of code for any errors.
