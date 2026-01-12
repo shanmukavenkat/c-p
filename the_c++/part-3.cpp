@@ -31,8 +31,12 @@ int main(){
     default condition:
         output break;
     }
-    
-    
+    --------------------------------
+
+    for(intilization;condition;increment){
+    output
+    }
+    --------------------------------
     */ 
 
     int score = 32;
@@ -74,5 +78,11 @@ int main(){
     }
 
 
+    for(int i = 5; i<=5; i++){
+         cout << i << " it is the value" << endl;
+    }
+
+
     return 0;
 }
+// it will return from 1 to 5 only 
