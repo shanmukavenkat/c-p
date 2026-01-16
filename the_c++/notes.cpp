@@ -246,8 +246,7 @@ Now let me walk you through the flow like a story 👇
                 Show how Linux / scripts read this flow
 
                 Just tell me 😊
-
-
+Mostly the cpp is used for the gaming and th3 system design also <==mobile try commit 
     
     */
     
